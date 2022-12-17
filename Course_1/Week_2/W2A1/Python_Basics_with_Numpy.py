@@ -34,7 +34,7 @@ print(np.exp(t_x))  # result is (exp(1), exp(2), exp(3))
 
 # example of vector operation
 t_x = np.array([1, 2, 3])
-print (t_x + 3)
+print(t_x + 3)
 
 
 # GRADED FUNCTION: sigmoid
